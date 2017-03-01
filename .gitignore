@@ -8,3 +8,5 @@ target
 out
 classes
 config.yml
+*.iml
+.idea/
